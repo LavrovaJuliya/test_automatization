@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        //"module": "None",
+        
         "moduleResolution": "node",
         "types": [
             "node",
