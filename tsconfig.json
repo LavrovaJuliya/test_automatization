@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        //"module": "None",
+        "moduleResolution": "node",
+        "types": [
+            "node",
+            "@wdio/globals/types",
+            "expect-webdriverio",
+            "@wdio/jasmine-framework"
+        ],
+        //"target": "ES2022"
+    }
+}
